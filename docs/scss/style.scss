@@ -45,6 +45,7 @@ body {
 }
 
 #authors {
+    
 
     img{
        margin-top: -50px; 
@@ -56,6 +57,7 @@ body {
     }
 
     .card:hover {
+        transition: all .25s;
         background: $primary;
         color:#fff;
 

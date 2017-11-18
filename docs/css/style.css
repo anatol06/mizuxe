@@ -37,6 +37,7 @@ body {
   text-decoration: none; }
 
 #authors .card:hover {
+  transition: all .25s;
   background: #3292a6;
   color: #fff; }
   #authors .card:hover .fa {
